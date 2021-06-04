@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="spead12" size="1.000000 1.376518" />
+    <ImageTarget name="spead13" size="1.000000 1.337398" />
+    <ImageTarget name="spead11" size="1.000000 1.418410" />
+    <ImageTarget name="spead10" size="1.000000 1.395062" />
+    <ImageTarget name="spead9" size="1.000000 1.343874" />
+    <ImageTarget name="spead8" size="1.000000 1.372000" />
+    <ImageTarget name="spead7" size="1.000000 1.360000" />
+    <ImageTarget name="spead6" size="1.000000 1.394309" />
+    <ImageTarget name="spead5" size="1.000000 1.376518" />
+    <ImageTarget name="spead4" size="1.000000 1.397541" />
+    <ImageTarget name="spead3" size="1.000000 1.372000" />
+    <ImageTarget name="spead2" size="1.000000 1.392000" />
+    <ImageTarget name="spead1" size="1.000000 1.361111" />
+    <ImageTarget name="dia13" size="1.000000 1.399194" />
+    <ImageTarget name="dia12" size="1.000000 1.376984" />
+    <ImageTarget name="dia11" size="1.000000 1.366142" />
+    <ImageTarget name="dia10" size="1.000000 1.412956" />
+    <ImageTarget name="dia9" size="1.000000 1.383065" />
+    <ImageTarget name="dia8" size="1.000000 1.371094" />
+    <ImageTarget name="dia7" size="1.000000 1.410569" />
+    <ImageTarget name="dia6" size="1.000000 1.372000" />
+    <ImageTarget name="dia5" size="1.000000 1.388000" />
+    <ImageTarget name="dia4" size="1.000000 1.341270" />
+    <ImageTarget name="dia3" size="1.000000 1.420408" />
+    <ImageTarget name="dia2" size="1.000000 1.378049" />
+    <ImageTarget name="dia1" size="0.100000 0.139669" />
+    <ImageTarget name="ns13" size="1.000000 1.108108" />
+    <ImageTarget name="nh13" size="1.000000 1.077844" />
+    <ImageTarget name="sim2" size="1.000000 0.990338" />
+    <ImageTarget name="sim1" size="1.000000 0.952632" />
+  </Tracking>
+</QCARConfig>
